@@ -1,0 +1,5 @@
+b'<html>\r\n<head>\r\n\t<script>\r\n\t\tlocation.replace(location.href.replace("https://","http://"));\r\n\t</script>\r\n</head>\r\n<body>\r\n\t<noscript><meta http-equiv="refresh" content="0;url=http://www.baidu.com/"></noscript>\r\n</body>\r\n</html>'
+200
+https://www.baidu.com/s?wd=%E6%9D%8E%E5%9B%9B&rsv_spt=1&rsv_iqid=0xcdf67a5700358693&issp=1&f=8&rsv_bp=1&rsv_idx=2&ie=utf-8&tn=68018901_58_oem_dg&rsv_dl=ib&rsv_enter=1&rsv_sug3=8&rsv_sug1=6&rsv_sug7=100&rsv_btype=t&prefixsug=%25E4%25BD%25A0%25E5%25A5%25BD&rsp=6&inputT=6783&rsv_sug4=22468
+成功
+<RequestsCookieJar[<Cookie BDRCVFR[BIVAaPonX6T]=mk3SLVN4HKm for .baidu.com/>, <Cookie H_PS_PSSID=60271_62325_63143_63692_63725_63729_63712_63881_63885_63909_63950_63948_63959_63964_63988_63275 for .baidu.com/>, <Cookie BD_NOT_HTTPS=1 for www.baidu.com/>]>

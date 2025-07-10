@@ -1,0 +1,20 @@
+Sheet  0:<Sheet1>
+3
+10
+text:'手机号正确，密码错误'
+----------------------------------------------
+手机号正确，密码错误
+手机号不正确，密码正确
+post
+post
+https://mail.163.com/fgw/mailsrv-master-account-core/entry/easylogin/authorize/fpwd
+
+https://mail.163.com/fgw/mailsrv-master-account-core/entry/easylogin/authorize/fpwd
+
+content-type：application/json
+content-type：application/json
+{"uid":"15979197624@163.com","sdid":"1242156919494873088","deviceId":"caf6e766883c506342271d888f29b43b_v1"}
+-------------------------------------------------
+{"uid":"15979197625@163.com","sdid":"1242156919494873088","deviceId":"caf6e766883c506342271d888f29b43b_v1"}
+-------------------------------------------------
+{"timestamp":1752155315313,"status":400,"error":"Bad Request","message":"Required request body is missing: public void com.netease.mail.master.controller.EntryEasyloginController.authorizeFpwd(com.netease.mail.master.vo.EasyloginAuthorizeFpwdRequest)","path":"/entry/easylogin/authorize/fpwd"}
